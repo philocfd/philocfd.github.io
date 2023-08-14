@@ -2,7 +2,7 @@
 title: "Effects of non-sinusoidal pitching motion on energy extraction performance of a semi-active flapping foil"
 collection: publications
 permalink: /publication/non-sinusoidal
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'We suggest that a non-sinusoidal profile, at least a simple trapezoidal-like one is ineffective in the semi-active system reported by the current study.'
 date: 2016.07.13
 venue: 'Renewable energy'
 paperurl: 'http://philocfd.github.io/files/non-sinusoidal.pdf'
