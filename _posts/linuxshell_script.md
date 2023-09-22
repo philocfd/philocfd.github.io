@@ -1,5 +1,5 @@
 ---
-title: 'Blog Post number 1'
+title: 'Linux shell 脚本'
 date: 2023-09-22
 permalink: /posts/2023/09/linuxshell脚本/
 tags:
