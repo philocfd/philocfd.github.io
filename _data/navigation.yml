@@ -4,12 +4,8 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
+    url: /talks/     
+  - title: "Projects"
     url: /portfolio/
         
   - title: "Blog Posts"
