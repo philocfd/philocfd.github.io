@@ -1,6 +1,6 @@
 ---
 title: "Floating wind turbine"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/floating_wind_turbine.png'>"
+excerpt: "Calculate damping of floater with CFD 使用CFD计算浮体的水动力阻尼<br/><img src='/images/floating_wind_turbine.png'>"
 collection: projects
 ---
 
