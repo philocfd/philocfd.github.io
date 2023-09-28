@@ -1,9 +1,9 @@
 ---
 title: 'Linux shell 脚本'
 date: 2023-09-22
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2023/09/linuxshell/
 tags:
-  - Linux
+  - Linux Shell
 ---
 
  在这里不区分命令和脚本的区别了，因为命令是脚本的基础。
