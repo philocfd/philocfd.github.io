@@ -1,7 +1,7 @@
 ---
 title: 'Linux shell 脚本'
 date: 2023-09-22
-permalink: /posts/2023/09/linuxshell脚本/
+permalink: /posts/2012/08/blog-post-1/
 tags:
   - Linux
 ---
