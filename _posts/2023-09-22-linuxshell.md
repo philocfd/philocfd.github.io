@@ -252,7 +252,7 @@ tree [] [-I <范本样式>] [-P <范本样式>] [目录...]
 
 - -P<范本样式> 只显示符合范本样式的文件或目录名称
 ### man
-![image.png](https://cdn.nlark.com/yuque/0/2022/png/12388090/1671114294386-c079a4ec-5fb6-4161-9347-7fe4f5fb022b.png#averageHue=%23eeeae4&clientId=uc0d91887-93db-4&from=paste&height=412&id=u6098f1ae&originHeight=824&originWidth=1312&originalType=binary&ratio=1&rotation=0&showTitle=false&size=129085&status=done&style=none&taskId=uc1ebe1b6-a995-4936-b689-208f4fda73d&title=&width=656)
+
 NAME简要介绍这个命令的用途，SYNOPSIS列出了该命令能够理解的**参数**。所有可选的参数包含在[]中，可以相互替代的参数用｜隔开，可以重复的参数后边跟着...。
 The one-line description under NAME tells you briefly what the command does, and the summary under SYNOPSIS lists all the flags it understands. Anything that is optional is shown in square brackets [...], either/or alternatives are separated by |, and things that can be repeated are shown by ..., so head's manual page is telling you that you can _either_ give a line count with -n or a byte count with -c, and that you can give it any number of filenames.↳
 ### cut 从文件中选择列
